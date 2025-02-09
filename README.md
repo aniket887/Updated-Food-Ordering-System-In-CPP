@@ -7,4 +7,4 @@ this project is updated version of "https://github.com/aniket887/Food-ordering-S
 this is optimised version 
 
 TODO:
-add GUI
+add Graphical User Interface
